@@ -1,0 +1,7 @@
+{
+    "name": "vit/vit",
+    "require": {
+        "larapack/dd": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
